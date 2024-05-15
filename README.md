@@ -19,4 +19,8 @@ https://hub.docker.com/r/leirbag0/myservice
     ```
   ![ingress](https://github.com/Leirbagg/prog_distrib/blob/main/capture_decran/Ingress.png)
 
+## Google labs
+
+  ![labs](https://github.com/Leirbagg/prog_distrib/blob/main/capture_decran/google_labs.png)
+
 
