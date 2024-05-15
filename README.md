@@ -17,6 +17,6 @@ https://hub.docker.com/r/leirbag0/myservice
     minikube addons enable ingress-dns
     minikube tunnel
     ```
-  ![ingress](https://github.com/Leirbagg/prog_distrib/blob/main/capture_decran/ingress.png)
+  ![ingress](https://github.com/Leirbagg/prog_distrib/blob/main/capture_decran/Ingress.png)
 
 
